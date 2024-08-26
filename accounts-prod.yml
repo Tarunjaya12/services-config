@@ -6,7 +6,7 @@ accounts:
   message: "Welcome to Eazy Bank Prod"
   contactDetails:
     name: "C Taruneswar - Production Support"
-    email: "671c1bf59c8faacce27a7f681cb339e13a7dafebc11f12348f5b40f34c7d210c"
+    email: "{cipher}671c1bf59c8faacce27a7f681cb339e13a7dafebc11f12348f5b40f34c7d210c"
   onCallSupport:
     - 8797898990
     - 8984555678
