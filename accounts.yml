@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+
+accounts:
+  message: "Welcome to Eazy Bank Default"
+  contactDetails:
+    name: "C Taruneswar - Developer"
+    email: "ctr@gmail.com"
+  onCallSupport:
+    - 8797898990
+    - 8989898989

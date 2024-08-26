@@ -1,0 +1,15 @@
+
+
+
+build:
+  version: "2.0"
+
+
+accounts:
+  message: "Welcome to Eazy Bank Cards QA"
+  contactDetails:
+    name: "C Tarun - QA"
+    email: "ctr@gmail.com"
+  onCallSupport:
+    - 8797898990
+    - 8989867676

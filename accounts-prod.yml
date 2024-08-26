@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+
+accounts:
+  message: "Welcome to Eazy Bank Prod"
+  contactDetails:
+    name: "C Taruneswar - Production Support"
+    email: "ctr@gmail.com"
+  onCallSupport:
+    - 8797898990
+    - 8984555678
